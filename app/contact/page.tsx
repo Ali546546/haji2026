@@ -37,7 +37,7 @@ export default function ContactPage() {
             </p>
 
             <p className="mb-4 text-gray-300">
-              📞 +92 300 1234567
+              📞 +92 324 5050 786
             </p>
 
             <p className="mb-6 text-gray-300">
@@ -45,7 +45,7 @@ export default function ContactPage() {
             </p>
 
             <a
-              href="https://wa.me/923001234567"
+              href="https://wa.me/923245050786"
               target="_blank"
               className="inline-block bg-[#2b060d] hover:bg-black px-6 py-3 rounded-full font-semibold transition"
             >

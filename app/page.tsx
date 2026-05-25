@@ -316,7 +316,7 @@ export default function Home() {
             <h4 className="text-lg font-semibold mb-3">Contact Us</h4>
             <p className="text-sm mb-2">📍 Main Bazar Sharaqpur Shareef, Pakistan</p>
             <p className="text-sm mb-2">📍 Thokar Naiz Baig Raiwind Road Lahore, Pakistan</p>
-            <p className="text-sm mb-2">📞 +92 321 4572786,   03228410910</p>
+            <p className="text-sm mb-2">📞 +92 321 4572 786,   +92 322 8410 910</p>
             <a
               href="https://wa.me/923245050786"
               className="inline-block mt-2 bg-white text-[#4b0f1a] px-4 py-2 rounded-full text-sm font-semibold hover:bg-gray-200"
