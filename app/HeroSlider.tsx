@@ -51,7 +51,7 @@ export default function HeroSlider() {
         </h1>
 
         <p className="text-sm sm:text-lg md:text-xl text-gray-200 mb-6 max-w-2xl">
-          Authentic Sharaqpur Shareef Gulab Jamun made with pure desi ghee & traditional recipe
+          Authentic Sharaqpur Shareef Gulab Jamun made with traditional recipe
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4">
