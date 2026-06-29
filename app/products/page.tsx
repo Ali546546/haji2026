@@ -36,9 +36,9 @@ export default function ProductsSection() {
       options: [
         {
           label: "VIP Box Pack",
-          price: 1200,
-          description:
-            "2 Pouch • 1300g Shera • 60 Fried Gulab Jamun • Weight 1.5-1.7kg",
+          price: 1649,
+         description:
+  "2 Pouch • 1300g Shera • 60 Fried Gulab Jamun\nWeight: 1.5–1.7kg\n🚚 FREE Delivery All Over Pakistan",
         },
       ],
     },
